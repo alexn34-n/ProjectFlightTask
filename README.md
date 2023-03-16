@@ -7,11 +7,11 @@
 
 
 Запуск приложения через командную строку
-java -jar flightTimeStatistics.jar [JSON file path]
+java -jar ProjectFlightTask.jar [JSON file path]
 
 Результат выполнения:
-art1@art1-VirtualBox:~/Загрузки$ java -jar flightTimeStatistics.jar /home/art1/Загрузки/tickets.json
+alexn@alexn-Vostro-25-4525:~/Документы/Task/ProjectFlightTask$  java -jar ProjectFlightTask.jar /home/alexn/Документы/Task/ProjectFlightTask/src/main/resources/tickets.json
 
-Average flight time = 452 minutes
+Среднее время в пути: = 7 часов 32 минуты
 
-90th percentile of flight time = 605 minutes
+90-й процентиль: = 9 часов 45 минут
