@@ -10,7 +10,6 @@
 java -jar ProjectFlightTask.jar [JSON file path]
 
 Результат выполнения:
-alexn@alexn-Vostro-25-4525:~/Документы/Task/ProjectFlightTask$  java -jar ProjectFlightTask.jar /home/alexn/Документы/Task/ProjectFlightTask/src/main/resources/tickets.json
 
 Среднее время в пути: = 7 часов 32 минуты
 
